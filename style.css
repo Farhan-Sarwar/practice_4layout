@@ -1,0 +1,36 @@
+.header{
+	color: red;
+	background-color: pink;
+}
+.wrapper{
+	overflow: hidden;
+}
+.content1{
+	float: left;
+	width: 20%;
+	border: solid;
+	background-color: pink;
+	text-align: justify;
+}
+.content2{
+	float: left;
+	width: 20%;
+	border: solid;
+	
+}
+.location{
+	float: left;
+	width: 20%;
+	border: solid;
+	
+	}
+.contact{
+	float: left;
+	
+}
+.footer{
+	min-height: 10px;
+	color: red;
+	background-color: pink;
+}
+
